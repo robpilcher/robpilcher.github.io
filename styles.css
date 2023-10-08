@@ -1,0 +1,177 @@
+.nav1 p {
+    text-align: center;
+    padding-top: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: white;
+}
+
+.nav1 img {
+    position: absolute;
+    max-width: 90px;
+    padding-left: 15px;
+}
+
+
+.main_list {
+    list-style-type: none;
+    position: relative;
+    top: 20px;
+    left: 80px;
+    color: white;
+
+}
+
+.claimform {
+    position: absolute;
+    top: 50%;
+    left: 100px;
+}
+
+.main_list li {
+    display: inline-block;
+    padding-right: 80px;
+    
+}
+
+.containerstyle1 {
+    position: absolute;
+    padding-top: 40px;
+    padding-left: 100px;
+    z-index: 1;
+}
+
+.containerstyle2 {
+    max-width: 50%;
+    height: 600px;
+    float: right;
+    position: static;
+    width: 1000px;
+}
+
+.image4 {
+    max-width: 80%;
+    max-height: 90%;
+    float: right;
+    position: relative;
+    right: 70px;
+}
+
+.containerstyle3 {
+    background-color: #CFFCFF;
+    position: absolute;
+    top: 620px;
+    height: 700px;
+    width: 100%;
+}
+
+.containerstyle4 {
+    background-color: white;
+    position: absolute;
+    top: 1350px;
+    height: 800px;
+    width: 100%;
+}
+
+
+.containerstyle5 {
+    background-color: #CFFCFF;
+    position: absolute;
+    top: 2000px;
+    height: 200px;
+    width: 100%;
+}
+
+
+.containerstyle3 h3 {
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin: 0px 0px;
+}
+
+.containerstyle3 h3 {
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin: 0px 0px;
+}
+
+.containerstyle4 h3 {
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    padding-bottom: 30px;
+}   
+
+
+.containerstyle3 h5 {
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.containerstyle31 {
+    padding-top: 5px;
+    border: solid 2px #2F6690;
+    position: absolute;
+    border-radius: 10px;
+    width: 25%;
+    height: 70%;
+    right: 60%;
+    margin-top: 3%;
+}
+
+.containerstyle32 {
+    padding-top: 5px;
+    padding-left: 0px;
+    border: solid 2px #2F6690;
+    position: absolute;
+    border-radius: 10px;
+    width: 25%;
+    height: 70%;
+    left: 60%;
+    margin-top: 3%;
+    background-color: #2F6690;
+}
+
+.beeli {
+    list-style-type: none;
+    border: solid 1px white;
+}
+
+.beebullet {
+    padding-left: 0px;
+    margin-top: 10px;
+    max-width: 30px;
+    border: solid 1px white;
+}
+
+.beeh6 {
+    display: inline-block;
+    border: solid 1px white;
+
+}
+
+.faqdiv {
+    border: solid 1px #C0D8E0;
+    border-radius: 5px;
+    margin: 1% auto;
+    width: 60%;
+    height: 35px;
+    background-color: #C0D8E0;
+}
+
+.nav1 {
+    height: 110px;
+    background-color: #2F6690;
+    padding-bottom: 0%;
+}
+
+.form-control {
+    margin-bottom: 20px;
+}
